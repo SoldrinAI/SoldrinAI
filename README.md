@@ -87,7 +87,7 @@ pip install kaanan
 
 Available for full-time roles, contract work, and consulting engagements across AI engineering, agentic system builds, forward-deployment engineering, and AI product strategy. Comfortable working directly with clients and stakeholders at any stage of the product lifecycle.
 
-[LinkedIn](https://linkedin.com/in/yaohan-fernandes)
+[LinkedIn](https://linkedin.com/in/yaohan-fernandes) · [ORCID: 0009-0003-3973-0377](https://orcid.org/0009-0003-3973-0377)
 
 ---
 
