@@ -16,6 +16,25 @@ Open to full-time roles, contract engagements, and consulting in AI engineering,
 
 ---
 
+## Featured Open Source Project
+
+### [Kaanan](https://github.com/SoldrinAI/kaanan)
+
+[![PyPI version](https://img.shields.io/pypi/v/kaanan.svg?color=blue)](https://pypi.org/project/kaanan/)
+[![License](https://img.shields.io/github/license/SoldrinAI/kaanan)](https://github.com/SoldrinAI/kaanan/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/SoldrinAI/kaanan?style=flat)](https://github.com/SoldrinAI/kaanan/stargazers)
+
+An LLM-powered security CLI combining Static Application Security Testing (SAST) and Vulnerability Assessment and Penetration Testing (VAPT). Features AST-based taint analysis, LLM-guided attack surface analysis, passive exposure detection, and multi-provider model support via LiteLLM (including local Ollama deployments).
+
+```bash
+pip install kaanan
+```
+
+- Repository: [github.com/SoldrinAI/kaanan](https://github.com/SoldrinAI/kaanan)
+- Package Index: [pypi.org/project/kaanan](https://pypi.org/project/kaanan/)
+
+---
+
 ## What I Build
 
 | Domain | What I Ship | Industry |
@@ -45,7 +64,7 @@ Open to full-time roles, contract engagements, and consulting in AI engineering,
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=white)
 
 `Python` · `SQL Server` · `SQLite` · `JavaScript` · `FastAPI` · `LangChain` · `LangGraph` · `LiteLLM` · `AstraDB` · `Qdrant` · `Redis` · `MongoDB` · `Azure OpenAI (GPT-4o class)` · `OpenAI` · `Gemini` · `Ollama` · `ElevenLabs` · `YOLO ONNX` · `CLIP` · `Streamlit` · `Docker` · `AWS` · `Prompt Engineering` · `NLP` · `RAG` · `MCP` · `WebSocket` · `Tableau`
 
@@ -61,13 +80,6 @@ Open to full-time roles, contract engagements, and consulting in AI engineering,
 - **PPE/uniform detection pipeline** (industrial): YOLO to CLIP to Azure Vision.
 - **Voice AI agent** (industrial): multilingual Hinglish tone engineering.
 - **HR RAG chatbot** (finance/NBFC): AstraDB/Qdrant-backed retrieval.
-
----
-
-## GitHub Stats
-
-![Soldrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoldrinAI&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoldrinAI&layout=compact&theme=dark&hide_border=true)
 
 ---
 
