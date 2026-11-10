@@ -1,12 +1,14 @@
+<p align="center"><img src="assets/banner.svg" alt="SoldrinAI: Production AI, not demos." width="100%"></p>
+
 # Soldrin
 
 **AI Engineering · Agentic Systems · Enterprise GenAI Delivery**
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 > *Production AI, not demos.*
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 I build production-grade AI systems for enterprise clients: hybrid search, text-to-SQL, computer vision, voice agents, and AI-security tooling. **57 systems delivered**, generating **Rs. 8 crore+ in enterprise value**, across **automotive**, **consumer electronics**, **industrial**, and **finance/NBFC** sectors.
 
@@ -14,7 +16,7 @@ I own the full product development cycle: requirements gathering and scoping wit
 
 Open to full-time roles, contract engagements, and consulting in AI engineering, agentic systems, and forward-deployment engineering.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Featured Open Source Project
 
@@ -33,7 +35,7 @@ pip install kaanan
 - Repository: [github.com/SoldrinAI/kaanan](https://github.com/SoldrinAI/kaanan)
 - Package Index: [pypi.org/project/kaanan](https://pypi.org/project/kaanan/)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Product Offering
 
@@ -44,7 +46,7 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 - Stack: FastAPI, ONNX MiniLM embeddings, React, Vercel
 - Repository: [github.com/SoldrinAI/soldrin-smart-search](https://github.com/SoldrinAI/soldrin-smart-search)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## What I Build
 
@@ -59,7 +61,7 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 | RAG and Enterprise Chat | Dense+BM25 retrieval, session memory via AstraDB/Qdrant | Finance/NBFC, internal tools |
 | Enterprise AI Architecture | Hybrid cloud/on-prem design, SAP/Azure procurement integrations | Automotive, industrial |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Core Stack
 
@@ -80,7 +82,7 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 
 `Python` · `SQL Server` · `SQLite` · `JavaScript` · `FastAPI` · `LangChain` · `LangGraph` · `LiteLLM` · `AstraDB` · `Qdrant` · `Redis` · `MongoDB` · `Azure OpenAI (GPT-4o class)` · `OpenAI` · `Gemini` · `Ollama` · `ElevenLabs` · `Edge AI` · `YOLO ONNX` · `MobileNet` · `Arduino & Embedded Systems` · `CLIP` · `Streamlit` · `Docker` · `AWS` · `Prompt Engineering` · `NLP` · `RAG` · `MCP` · `WebSocket` · `Tableau`
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Representative Work
 
@@ -94,7 +96,7 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 - **Voice AI agent** (industrial): multilingual Hinglish tone engineering.
 - **HR RAG chatbot** (finance/NBFC): AstraDB/Qdrant-backed retrieval.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Open to Work
 
@@ -102,6 +104,6 @@ Available for full-time roles, contract work, and consulting engagements across 
 
 [LinkedIn](https://linkedin.com/in/yaohan-fernandes) · [ORCID: 0009-0003-3973-0377](https://orcid.org/0009-0003-3973-0377)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 *Built with intent. Deployed with precision.*

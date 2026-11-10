@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="SoldrinAI. Production AI, not demos.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1722"/><stop offset="1" stop-color="#0b2a44"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#12b4f3" stop-opacity="0"/><stop offset=".5" stop-color="#12b4f3" stop-opacity=".9"/><stop offset="1" stop-color="#12b4f3" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect width="1000" height="260" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .hex{fill:none;stroke:#12b4f3;stroke-width:2;stroke-dasharray:600;stroke-dashoffset:600;animation:draw 2.4s ease-out .2s forwards}
+    .spoke{stroke:#12b4f3;stroke-width:1.2;opacity:0;animation:fade 1s ease-out 1.6s forwards}
+    .node{fill:#fff;transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+    .core{fill:#12b4f3;transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+    .name{font:700 64px 'Inter','Segoe UI',Arial,sans-serif;fill:#fff;letter-spacing:-1px;opacity:0;animation:rise .9s ease-out .6s forwards}
+    .ai{fill:#12b4f3}
+    .tag{font:500 22px 'Inter','Segoe UI',Arial,sans-serif;fill:#9fb3c8;opacity:0}
+    .t1{animation:cycle 12s ease-in-out 1.6s infinite}.t2{animation:cycle 12s ease-in-out 5.6s infinite}.t3{animation:cycle 12s ease-in-out 9.6s infinite}
+    .glint{animation:sweep 5s ease-in-out 2s infinite;transform:translateX(-1000px)}
+    .dot{fill:#12b4f3;opacity:.0;animation:float 7s ease-in-out infinite}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes fade{to{opacity:.55}}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.5);opacity:.65}}
+    @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    @keyframes cycle{0%{opacity:0;transform:translateY(10px)}8%,30%{opacity:1;transform:none}38%,100%{opacity:0;transform:translateY(-10px)}}
+    @keyframes sweep{0%{transform:translateX(-1000px)}60%,100%{transform:translateX(1000px)}}
+    @keyframes float{0%{opacity:0;transform:translateY(20px)}30%{opacity:.5}100%{opacity:0;transform:translateY(-60px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important;transform:none!important}.glint,.dot,.t2,.t3{display:none}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect class="glint" width="1000" height="260" fill="url(#shine)" opacity=".10"/>
+    <g class="dots"><circle class="dot" cx="560" cy="230" r="3" style="animation-delay:0s"/><circle class="dot" cx="700" cy="240" r="2" style="animation-delay:2s"/><circle class="dot" cx="860" cy="235" r="3" style="animation-delay:4s"/><circle class="dot" cx="940" cy="245" r="2" style="animation-delay:1s"/></g>
+    <g transform="translate(70 40) scale(5.6)">
+      <path class="hex" pathLength="600" d="M16 2.5l11.7 6.75v13.5L16 29.5 4.3 22.75V9.25z" transform="scale(1)"/>
+      <path class="spoke" d="M16 2.5v27M4.3 9.25l23.4 13.5M27.7 9.25L4.3 22.75" style="stroke-width:.3"/>
+      <circle class="core" cx="16" cy="16" r="2.6"/>
+      <circle class="node" cx="16" cy="2.5" r="1.3" style="animation-delay:.0s"/><circle class="node" cx="27.7" cy="9.25" r="1.3" style="animation-delay:.4s"/><circle class="node" cx="27.7" cy="22.75" r="1.3" style="animation-delay:.8s"/><circle class="node" cx="16" cy="29.5" r="1.3" style="animation-delay:1.2s"/><circle class="node" cx="4.3" cy="22.75" r="1.3" style="animation-delay:1.6s"/><circle class="node" cx="4.3" cy="9.25" r="1.3" style="animation-delay:2s"/>
+    </g>
+    <text class="name" x="300" y="130">Soldrin<tspan class="ai">AI</tspan></text>
+    <text class="tag t1" x="302" y="180">Production AI, not demos.</text>
+    <text class="tag t2" x="302" y="180">Hybrid search · Agentic systems · Enterprise GenAI</text>
+    <text class="tag t3" x="302" y="180">57 systems delivered across 4 industries.</text>
+  </g>
+</svg>
