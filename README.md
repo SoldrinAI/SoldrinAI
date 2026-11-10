@@ -35,6 +35,17 @@ pip install kaanan
 
 ---
 
+## Product Offering
+
+### [SoldrinAI Smart Search](https://github.com/SoldrinAI/soldrin-smart-search)
+
+Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic embeddings + BM25) finds the right rows by meaning while still matching exact terms. Runs serverless with no GPU, no vector database and no paid AI API. Uploaded files are never stored.
+
+- Stack: FastAPI, ONNX MiniLM embeddings, React, Vercel
+- Repository: [github.com/SoldrinAI/soldrin-smart-search](https://github.com/SoldrinAI/soldrin-smart-search)
+
+---
+
 ## What I Build
 
 | Domain | What I Ship | Industry |
