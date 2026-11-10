@@ -43,6 +43,7 @@ pip install kaanan
 | Text-to-SQL / NL Analytics | Hybrid LLM+regex classification, dual-schema routing, RBAC-aware SQL generation, multi-tier caching | Consumer electronics |
 | Computer Vision | YOLO ONNX, CLIP, Azure Vision detection pipelines; Gemini Vision-based visual search | Industrial, consumer electronics |
 | Voice AI | Tone-engineered multilingual (Hinglish) voice agents | Industrial |
+| Edge AI and Hardware Integration | Microcontroller sensor and actuator telemetry, embedded computer vision (YOLO ONNX, MobileNet) | IoT, Industrial |
 | AI Security | AST-based taint analysis (SAST), agent-orchestrated VAPT/SCA scanning | Open-source / cross-industry |
 | RAG and Enterprise Chat | Dense+BM25 retrieval, session memory via AstraDB/Qdrant | Finance/NBFC, internal tools |
 | Enterprise AI Architecture | Hybrid cloud/on-prem design, SAP/Azure procurement integrations | Automotive, industrial |
@@ -66,7 +67,7 @@ pip install kaanan
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=white)
 
-`Python` · `SQL Server` · `SQLite` · `JavaScript` · `FastAPI` · `LangChain` · `LangGraph` · `LiteLLM` · `AstraDB` · `Qdrant` · `Redis` · `MongoDB` · `Azure OpenAI (GPT-4o class)` · `OpenAI` · `Gemini` · `Ollama` · `ElevenLabs` · `YOLO ONNX` · `CLIP` · `Streamlit` · `Docker` · `AWS` · `Prompt Engineering` · `NLP` · `RAG` · `MCP` · `WebSocket` · `Tableau`
+`Python` · `SQL Server` · `SQLite` · `JavaScript` · `FastAPI` · `LangChain` · `LangGraph` · `LiteLLM` · `AstraDB` · `Qdrant` · `Redis` · `MongoDB` · `Azure OpenAI (GPT-4o class)` · `OpenAI` · `Gemini` · `Ollama` · `ElevenLabs` · `Edge AI` · `YOLO ONNX` · `MobileNet` · `Arduino & Embedded Systems` · `CLIP` · `Streamlit` · `Docker` · `AWS` · `Prompt Engineering` · `NLP` · `RAG` · `MCP` · `WebSocket` · `Tableau`
 
 ---
 
@@ -78,6 +79,7 @@ pip install kaanan
 - **Parts search platform** (automotive): tiered superimposition logic over hybrid Qdrant+BM25+SOLR retrieval.
 - **Multi-agent security orchestrator**: SAST/DAST/VAPT/SCA agents built on open-source scanning tools, LLM as the only paid component.
 - **PPE/uniform detection pipeline** (industrial): YOLO to CLIP to Azure Vision.
+- **Embedded hardware and sensor integration research** (IRJET): published research on microcontroller architectures (Arduino, ultrasonic range telemetry, servo actuators) for autonomous physical-digital interfaces.
 - **Voice AI agent** (industrial): multilingual Hinglish tone engineering.
 - **HR RAG chatbot** (finance/NBFC): AstraDB/Qdrant-backed retrieval.
 
