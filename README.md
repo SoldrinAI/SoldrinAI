@@ -39,14 +39,14 @@ pip install kaanan
 
 ## Product Offering
 
-### [SoldrinAI Smart Search](https://soldrin-search.vercel.app/)
+### [SoldrinAI Smart Search](https://www.soldrinai.com/smart-search/)
 
 Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic embeddings + BM25) finds the right rows by meaning while still matching exact terms. Runs serverless with no GPU, no vector database and no paid AI API. Uploaded files are never stored.
 
 - Stack: FastAPI, ONNX MiniLM embeddings, React, Vercel
 - Repository: [github.com/SoldrinAI/soldrin-smart-search](https://github.com/SoldrinAI/soldrin-smart-search)
 
-### [SoldrinAI RAG Chatbot](https://soldrinai-rag-chatbot.vercel.app/)
+### [SoldrinAI RAG Chatbot](https://www.soldrinai.com/rag-search/)
 
 Upload a PDF, Word, Excel, CSV or text file and chat with it. Documents are split by meaning (one chunk per spreadsheet row), retrieved with hybrid semantic + BM25 ranking, and answered by a small language model that runs privately in your browser. Choose from five models; answer quality depends on the model. Uploaded files are never stored.
 
