@@ -102,7 +102,7 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 
 Available for full-time roles, contract work, and consulting engagements across AI engineering, agentic system builds, forward-deployment engineering, and AI product strategy. Comfortable working directly with clients and stakeholders at any stage of the product lifecycle.
 
-[LinkedIn](https://linkedin.com/in/yaohan-fernandes) · [ORCID: 0009-0003-3973-0377](https://orcid.org/0009-0003-3973-0377)
+[WhatsApp](https://wa.me/919833644917?text=Hi%2C%20I%20found%20you%20on%20GitHub) · [LinkedIn](https://linkedin.com/in/yaohan-fernandes) · [ORCID: 0009-0003-3973-0377](https://orcid.org/0009-0003-3973-0377)
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
