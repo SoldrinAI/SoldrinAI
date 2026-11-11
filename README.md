@@ -46,6 +46,13 @@ Upload a spreadsheet and search it in plain language. Hybrid ranking (semantic e
 - Stack: FastAPI, ONNX MiniLM embeddings, React, Vercel
 - Repository: [github.com/SoldrinAI/soldrin-smart-search](https://github.com/SoldrinAI/soldrin-smart-search)
 
+### [SoldrinAI RAG Chatbot](https://soldrinai-rag-chatbot.vercel.app/)
+
+Upload a PDF, Word, Excel, CSV or text file and chat with it. Documents are split by meaning (one chunk per spreadsheet row), retrieved with hybrid semantic + BM25 ranking, and answered by a small language model that runs privately in your browser. Choose from five models; answer quality depends on the model. Uploaded files are never stored.
+
+- Stack: FastAPI, ONNX MiniLM embeddings, BM25 + cosine retrieval, WebLLM (WebGPU), React, Vercel
+- Repository: [github.com/SoldrinAI/SoldrinAI-rag-chatbot](https://github.com/SoldrinAI/SoldrinAI-rag-chatbot)
+
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## What I Build
